@@ -1,2 +1,2 @@
-This is modified version of Squid Web Cache (www.squid-cache.org)
+This is a modified version of Squid Web Cache (www.squid-cache.org)
 Modifications are made to provide correct functionality with ShagaEngine traffic accounting system.
