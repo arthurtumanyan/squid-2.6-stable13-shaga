@@ -1,0 +1,74 @@
+safe_inet_addr.o safe_inet_addr.o: safe_inet_addr.c ../include/config.h \
+  ../include/autoconf.h ../include/version.h ../include/util.h \
+  ../include/config.h /usr/include/stdio.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_null.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/time.h \
+  /usr/include/sys/timespec.h /usr/include/sys/time.h \
+  /usr/include/sys/_timeval.h /usr/include/sys/types.h \
+  /usr/include/machine/endian.h /usr/include/sys/_pthreadtypes.h \
+  /usr/include/sys/select.h /usr/include/sys/_sigset.h \
+  /usr/include/stdlib.h /usr/include/unistd.h /usr/include/sys/unistd.h \
+  /usr/include/sys/socket.h /usr/include/sys/_iovec.h \
+  /usr/include/machine/param.h /usr/include/netinet/in.h \
+  /usr/include/netinet6/in6.h /usr/include/arpa/inet.h \
+  ../include/snprintf.h /usr/include/stdarg.h
+
+../include/config.h:
+
+../include/autoconf.h:
+
+../include/version.h:
+
+../include/util.h:
+
+../include/config.h:
+
+/usr/include/stdio.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_null.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/timespec.h:
+
+/usr/include/sys/time.h:
+
+/usr/include/sys/_timeval.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/sys/_pthreadtypes.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/_sigset.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/unistd.h:
+
+/usr/include/sys/socket.h:
+
+/usr/include/sys/_iovec.h:
+
+/usr/include/machine/param.h:
+
+/usr/include/netinet/in.h:
+
+/usr/include/netinet6/in6.h:
+
+/usr/include/arpa/inet.h:
+
+../include/snprintf.h:
+
+/usr/include/stdarg.h:

@@ -1,0 +1,47 @@
+uudecode.o uudecode.o: uudecode.c ../include/config.h \
+  ../include/autoconf.h ../include/version.h ../include/util.h \
+  ../include/config.h /usr/include/stdio.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_null.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/time.h \
+  /usr/include/sys/timespec.h /usr/include/sys/time.h \
+  /usr/include/sys/_timeval.h /usr/include/sys/types.h \
+  /usr/include/machine/endian.h /usr/include/sys/_pthreadtypes.h \
+  /usr/include/sys/select.h /usr/include/sys/_sigset.h
+
+../include/config.h:
+
+../include/autoconf.h:
+
+../include/version.h:
+
+../include/util.h:
+
+../include/config.h:
+
+/usr/include/stdio.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_null.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/timespec.h:
+
+/usr/include/sys/time.h:
+
+/usr/include/sys/_timeval.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/sys/_pthreadtypes.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/_sigset.h:
